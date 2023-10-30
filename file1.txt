@@ -1,4 +1,4 @@
-
+very first line added at the last
 This is the first line
 Added an extra second line now
-
+click on i to insert the text into the file, and later press esc to come out of insert mode, to save press :wq!
