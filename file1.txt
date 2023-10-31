@@ -4,5 +4,5 @@ Added an extra second line now
 click on i to insert the text into the file, and later press esc to come out of insert mode, to save press :wq!
 This is the line added in the master branch to practice the merge conflict ressolution
 Adding line in the feature branch to practice merge conflict
-
 Adding one extra line in the master on the same line nos to create a merge conflict in the master and the feature branch.
+Adding extra line after provide a single line space in the feature branch to practice the rebase command
