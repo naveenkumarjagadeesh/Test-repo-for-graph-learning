@@ -3,3 +3,4 @@ This is the first line
 Added an extra second line now
 click on i to insert the text into the file, and later press esc to come out of insert mode, to save press :wq!
 This is the line added in the master branch to practice the merge conflict ressolution
+Adding line in the feature branch to practice merge conflict
