@@ -8,3 +8,8 @@ A new line has been added through the remote repo into the file1.txt
 
 
 Another new line has been added to the file1.txt by using eclipse as the source of input
+
+
+
+
+creating conflict through eclipse.
