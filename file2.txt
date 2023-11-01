@@ -1,2 +1,3 @@
 The first line of the second file is here.
 The second line of the second file is here and added now.
+This is the line added in the eclipse.
