@@ -1,1 +1,8 @@
 This i sthe 3rd file created on 30-10 to practice for the removal of the files in working dir
+
+
+
+
+
+
+An extra line breaks and an extra line being added into this file through git bash
