@@ -1,5 +1,10 @@
 This is the test file 1 added through the working dir -->local repo using the git bash
+		1. A new line of the text being added to the file1 through the working dir --> local repo --> remote repo
+		2. Another line is being added through the local machine.
+		3. One more to create conglict while pulling [ added from local machine]
 
+
+Creating merge conflict while pull [added through the remote repo github]
 
 
 A new line has been added through the remote repo into the file1.txt
@@ -12,4 +17,6 @@ Another new line has been added to the file1.txt by using eclipse as the source 
 
 
 
+
 creating conflict through eclipse.
+
