@@ -1,5 +1,5 @@
 This is the test file 1 added through the working dir -->local repo using the git bash
-		A new line of the text being added to the file1 through the working dir --> local repo --> remote repo.q`
+		A new line of the text being added to the file1 through the working dir --> local repo --> remote repo
 
 
 
