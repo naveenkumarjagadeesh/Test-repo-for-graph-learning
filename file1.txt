@@ -17,6 +17,5 @@ Another new line has been added to the file1.txt by using eclipse as the source 
 
 
 
-
-creating conflict through eclipse.
+creating conflict through eclipse. 
 
