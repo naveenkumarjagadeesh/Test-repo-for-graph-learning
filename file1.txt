@@ -1,0 +1,1 @@
+This is the test file 1 added through the working dir -->local repo using the git bash
